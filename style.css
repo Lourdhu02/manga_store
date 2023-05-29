@@ -1,0 +1,55 @@
+body {
+  font-family: Arial;
+  background-color: #ffffff;
+}
+p {
+  font-size: 24px;
+  color: #252131;
+}
+small {
+  color: #252131;
+}
+ul {
+  font-size: 24px;
+}
+#head1 {
+  font-size: 40px;
+  color: #4a6163;
+}
+#heading {
+  font-size: 60px;
+  color: #698ea2;
+}
+#and {
+  font-size: 24px;
+  color: #252131;
+}
+.offer {
+  background-color: #f9a66c;
+}
+
+.products {
+  margin-top: 200px;
+}
+
+.carousel-item {
+  height: 650px;
+
+  position: relative;
+}
+.boxslide {
+  background-color: #777;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 100px;
+}
+.quote {
+  font-size: 35px;
+  color: #ffc94b;
+  background-color: #4a6163;
+}
+.footer {
+  background-color: #ffc94b;
+}
