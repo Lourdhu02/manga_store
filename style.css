@@ -12,6 +12,9 @@ small {
 ul {
   font-size: 24px;
 }
+.nav-link{
+  color: black;
+}
 #head1 {
   font-size: 40px;
   color: #4a6163;
@@ -32,11 +35,6 @@ ul {
   margin-top: 200px;
 }
 
-.carousel-item {
-  height: 650px;
-
-  position: relative;
-}
 .boxslide {
   background-color: #777;
   position: absolute;
